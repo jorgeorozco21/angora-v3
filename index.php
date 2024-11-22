@@ -209,11 +209,7 @@ $usuarioNombre = $isAuthenticated ? $_SESSION['usuario_nombre'] : ''; // Obtener
             </div>
             <div class="page-info">
                 <h3> Help </h3>
-<<<<<<< HEAD
                 <a href="contacto.html"> Contact </a>
-=======
-                <a href="contacto.html"> Contact </a>
->>>>>>> e0bc31157671ffa74463292194c9f60b34529ffc
             </div>
             <div class="page-info">
                 <h3> Pages </h3>
