@@ -52,7 +52,7 @@ session_start(); // Asegúrate de que la sesión esté iniciada para poder traba
         
         <div id="total-carrito">
             <p>Total: <span id="total-price">$0.00</span></p>
-            <button id="proceder-pago">Proceder al pago</button>
+            <a href="confitmacion_pago.html"><button id="proceder-pago">Proceder al pago</button></a>
             <button id="eliminar-todos">Eliminar todo</button>
         </div>
     </div>
