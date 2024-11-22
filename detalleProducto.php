@@ -82,16 +82,16 @@ $productId = isset($_GET['id']) ? $_GET['id'] : null;
         <div class="footer-section pages">
             <div class="page-info">
                 <h3> My Account </h3>
-                <a href="#"> Login </a>
+                <a href="login.php"> Login </a>
             </div>
             <div class="page-info">
                 <h3> Help </h3>
-                <a href="#"> Contact </a>
+                <a href="contacto.html"> Contact </a>
             </div>
             <div class="page-info">
                 <h3> Pages </h3>
-                <a href="#"> Blog </a>
-                <a href="#"> About Us </a>
+                <a href="blog.html"> Blog </a>
+                <a href="nosotros.html"> About Us </a>
             </div>
         </div>
         <div class="footer-section payment">
