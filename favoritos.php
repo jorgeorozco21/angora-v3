@@ -105,11 +105,19 @@ if (isset($_POST['action']) && isset($_POST['product_id'])) {
         <div class="footer-section pages">
             <div class="page-info">
                 <h3> My Account </h3>
+<<<<<<< HEAD
                 <a href="login.html"> Login </a>
             </div>
             <div class="page-info">
                 <h3> Help </h3>
                 <a href="contacto.html"> Contact </a>
+=======
+                <a href="login.php"> Login </a>
+            </div>
+            <div class="page-info">
+                <h3> Help </h3>
+                <a href="contacto.html"> Contact </a>
+>>>>>>> e0bc31157671ffa74463292194c9f60b34529ffc
             </div>
             <div class="page-info">
                 <h3> Pages </h3>

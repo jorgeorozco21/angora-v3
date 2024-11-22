@@ -86,7 +86,7 @@ $productId = isset($_GET['id']) ? $_GET['id'] : null;
             </div>
             <div class="page-info">
                 <h3> Help </h3>
-                <a href="contacto.html"> Contact </a>
+                <a href="#"> Contact </a>
             </div>
             <div class="page-info">
                 <h3> Pages </h3>
