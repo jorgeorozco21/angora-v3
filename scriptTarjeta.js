@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Cerrar el modal manualmente
     closeModalButton.addEventListener('click', () => {
         modal.style.display = 'none';
-        window.location.href = 'index.html'; // Redirige al index al cerrar
+        window.location.href = 'index.php'; // Redirige al index al cerrar
     });
 
     function validateForm() {
